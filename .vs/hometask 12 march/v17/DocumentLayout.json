@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u0026V\\source\\repos\\anytask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25E48B7-36CE-4948-AFB8-1F351F912B85}|hometask 12 march\\hometask 12 march.csproj|c:\\users\\v\u0026v\\source\\repos\\anytask\\hometask 12 march\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25E48B7-36CE-4948-AFB8-1F351F912B85}|hometask 12 march\\hometask 12 march.csproj|solutionrelative:hometask 12 march\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\anytask\\hometask 12 march\\Program.cs",
+              "RelativeDocumentMoniker": "hometask 12 march\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\anytask\\hometask 12 march\\Program.cs",
+              "RelativeToolTip": "hometask 12 march\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:38:47.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

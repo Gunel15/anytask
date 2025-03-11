@@ -1,0 +1,14 @@
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.AssemblyInfoInputs.cache
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.AssemblyInfo.cs
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.csproj.CoreCompileInputs.cache
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\bin\Debug\net8.0\hometask 12 march.exe
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\bin\Debug\net8.0\hometask 12 march.deps.json
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\bin\Debug\net8.0\hometask 12 march.runtimeconfig.json
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\bin\Debug\net8.0\hometask 12 march.dll
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\bin\Debug\net8.0\hometask 12 march.pdb
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.dll
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\refint\hometask 12 march.dll
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.pdb
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\hometask 12 march.genruntimeconfig.cache
+C:\Users\V&V\source\repos\hometask 12 march\hometask 12 march\obj\Debug\net8.0\ref\hometask 12 march.dll
